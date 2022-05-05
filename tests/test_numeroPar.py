@@ -7,7 +7,7 @@ from ejercicios.numeroPar import numeroPar
 # Clase para crear tests. Las funciones de testeo deberán crearse en esta clase
 class TestClass:
 
-    # Test para la operación suma
+    # Test para la operación numeroPar
     def test_numeroPar(self):
         assert numeroPar(2) == true
         

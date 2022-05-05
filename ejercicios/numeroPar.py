@@ -2,7 +2,7 @@
 def numeroPar(x):
 
     if x % 2 == 0:
-        return false
+        return true
     else
         return false
 
