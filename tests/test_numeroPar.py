@@ -8,6 +8,6 @@ from ejercicios.numeroPar import numeroPar
 class TestClass:
 
     # Test para la operación suma
-    def test_numpar(self):
+    def test_numeroPar(self):
         assert numeroPar(2) == true
         
